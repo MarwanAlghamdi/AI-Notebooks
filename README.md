@@ -1,10 +1,10 @@
 <h3 align="left">This repository showcases the skills I have and the projects I have completed.</h3>
 
-| **Model** | **Notebook**          | **Dataset**                       | **Accuracies**                      |
-|-----------|-----------------------|-----------------------------------|-------------------------------------|
-|    ANN    | FeatureEncoding       | Simple Dataset From Jeff Heaton   | Train (>98), Validation (>97)       |
-|    ANN    | Regression K-Fold     | Simple Dataset From Jeff Heaton   | Regression                          |
-|    ANN    | Classification K-Fold | Simple Dataset From Jeff Heaton   | Train (>90), Validation (>90)       |
+| **Model** | **Notebook**          | **Dataset**                       |                     |
+|-----------|-----------------------|-----------------------------------|---------------------|
+|    ANN    | FeatureEncoding       | Simple Dataset From Jeff Heaton   | Classification      |
+|    ANN    | Regression K-Fold     | Simple Dataset From Jeff Heaton   | Regression          |
+|    ANN    | Classification K-Fold | Simple Dataset From Jeff Heaton   | Classification      |
 
 
 
