@@ -1,11 +1,11 @@
 <h3 align="left">This repository showcases the skills I have and the projects I have completed.</h3>
 
-| **Model** | **Notebook**          | **Dataset**                       |                     |
-|-----------|-----------------------|-----------------------------------|---------------------|
-|    ANN    | FeatureEncoding       | Simple Dataset From Jeff Heaton   | Classification      |
-|    ANN    | Regression K-Fold     | Simple Dataset From Jeff Heaton   | Regression          |
-|    ANN    | Classification K-Fold | Simple Dataset From Jeff Heaton   | Classification      |
-
+| **Neural Network** | **Notebook**          | **Dataset**                       |                     |
+|------------------|-----------------------|-----------------------------------|---------------------|
+|    Simple ANN    | FeatureEncoding       | Simple Dataset From Jeff Heaton   | Classification      |
+|    Simple ANN    | Regression K-Fold     | Simple Dataset From Jeff Heaton   | Regression          |
+|    Simple ANN    | Classification K-Fold | Simple Dataset From Jeff Heaton   | Classification      |
+|    Simple ANN    | Image Classification  | MNIST                             | Classification      |
 
 
 
