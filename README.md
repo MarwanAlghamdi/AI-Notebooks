@@ -1,3 +1,5 @@
+<h1 align="left">بسم الله الرحمن الرحيم</h1>
+<h2 align="left">الحمدلله والصلاة والسلام على رسول الله, اما بعد </h2>
 <h3 align="left">This repository showcases the skills I have and the projects I have completed.</h3>
 
 | **Neural Network** | **Notebook**          | **Dataset**                       |          Notes      |
