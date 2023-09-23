@@ -5,7 +5,7 @@
 |    Simple ANN      | FeatureEncoding       | Simple Dataset From Jeff Heaton   |                     |
 |    Simple ANN      | Regression K-Fold     | Simple Dataset From Jeff Heaton   |                     |
 |    Simple ANN      | Classification K-Fold | Simple Dataset From Jeff Heaton   |                     |
-|    Simple ANN      | Image Classification  | MNIST                             | In this example, I intend to use oversampling for each training epoch so I can have balanced training batches. I thought this was a bad idea but the results were very good tbh :) |
+|    Simple ANN      | Image Classification  | MNIST                             | In this example, I deliberately used oversampling to each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good tbh :)|
 
 
 
