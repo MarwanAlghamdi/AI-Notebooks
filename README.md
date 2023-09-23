@@ -1,11 +1,15 @@
 <h3 align="left">This repository showcases the skills I have and the projects I have completed.</h3>
 
-| **Neural Network** | **Notebook**          | **Dataset**                       |                     |
-|------------------|-----------------------|-----------------------------------|---------------------|
-|    Simple ANN    | FeatureEncoding       | Simple Dataset From Jeff Heaton   | Classification      |
-|    Simple ANN    | Regression K-Fold     | Simple Dataset From Jeff Heaton   | Regression          |
-|    Simple ANN    | Classification K-Fold | Simple Dataset From Jeff Heaton   | Classification      |
-|    Simple ANN    | Image Classification  | MNIST                             | Classification      |
+| **Neural Network** | **Notebook**          | **Dataset**                     |                     |          Notes      |
+|------------------|-----------------------|-----------------------------------|---------------------|---------------------|
+|    Simple ANN    | FeatureEncoding       | Simple Dataset From Jeff Heaton   | Classification      |                     |
+|    Simple ANN    | Regression K-Fold     | Simple Dataset From Jeff Heaton   | Regression          |                     |
+|    Simple ANN    | Classification K-Fold | Simple Dataset From Jeff Heaton   | Classification      |                     |
+|    Simple ANN    | Image Classification  | MNIST                             | Classification      | In this example, I intend to use oversampling to each training epoch so I can have balance training batches. I thought this was a bad idea but results was very good tbh :) |
+
+
+
+
 
 
 
