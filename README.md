@@ -1,5 +1,4 @@
-<h1 align="center">بسم الله الرحمن الرحيم</h1>
-<h1 align="center">الحمدلله والصلاة والسلام على رسول الله, اما بعد </h1>
+
 <h3 align="left">This repository showcases the skills I have and the projects I have completed.</h3>
 
 | **Neural Network** | **Notebook**          | **Dataset**                       |          Notes      |
@@ -7,7 +6,8 @@
 |    Simple ANN      | FeatureEncoding       | Simple Dataset From Jeff Heaton   |                     |
 |    Simple ANN      | Regression K-Fold     | Simple Dataset From Jeff Heaton   |                     |
 |    Simple ANN      | Classification K-Fold | Simple Dataset From Jeff Heaton   |                     |
-|    Simple ANN      | Image Classification  | MNIST                             | In this example, I deliberately used oversampling to each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good tbh :)|
+|    Simple ANN      | Image Classification  | MNIST                             | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
+|    ANN             | FeedForward Auto-Encoder          | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using standard auto-encoders.|
 
 
 
