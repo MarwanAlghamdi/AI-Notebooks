@@ -8,6 +8,8 @@
 |    ForwardFeed NN        | Classification K-Fold | Simple Dataset From Jeff Heaton   |                     |
 |    ForwardFeed NN        | Image Classification  | MNIST                             | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
 |    ForwardFeed NN        | Auto-Encoder          | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using standard auto-encoders.|
+|    Convolutional Neural Network        | CNN Classification          | MNIST                             | asd |
+|    Convolutional Neural Network        | 6- CNN Classification          | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using standard auto-encoders.|
 
 
 
