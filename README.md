@@ -3,11 +3,11 @@
 
 | **Neural Network** | **Notebook**          | **Dataset**                       |          Notes      |
 |--------------------|-----------------------|-----------------------------------|---------------------|
-|    Simple ANN      | FeatureEncoding       | Simple Dataset From Jeff Heaton   |                     |
-|    Simple ANN      | Regression K-Fold     | Simple Dataset From Jeff Heaton   |                     |
-|    Simple ANN      | Classification K-Fold | Simple Dataset From Jeff Heaton   |                     |
-|    Simple ANN      | Image Classification  | MNIST                             | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
-|    ANN             | FeedForward Auto-Encoder          | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using standard auto-encoders.|
+|    Forward-Feed NN      | FeatureEncoding       | Simple Dataset From Jeff Heaton   |                     |
+|    Forward-Feed NN      | Regression K-Fold     | Simple Dataset From Jeff Heaton   |                     |
+|    Forward-Feed NN      | Classification K-Fold | Simple Dataset From Jeff Heaton   |                     |
+|    Forward-Feed NN     | Image Classification  | MNIST                             | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
+|    Forward-Feed NN             | Auto-Encoder          | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using standard auto-encoders.|
 
 
 
