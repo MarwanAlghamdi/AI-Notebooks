@@ -8,9 +8,9 @@
 |    ForwardFeed NN               | Classification K-Fold      | Simple Dataset From Jeff Heaton   |                     |
 |    ForwardFeed NN               | Image Classification       | MNIST                             | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
 |    ForwardFeed NN               | Auto-Encoder               | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using FeedForward auto-encoders.|
-|    Convolutional Neural Network | CNN Classification         | MNIST                             | The goal of this example is to classify MNIST digits without any image processing. |
-|    Convolutional Neural Network | CNN Shifted Classification | MNIST                             | The goal of this example is to classify MNIST digits with random image shifting. |
-
+|    Convolutional Neural Network | CNN Classification         | MNIST                             | Classifying MNIST digits without any image processing. |
+|    Convolutional Neural Network | CNN Shifted Classification | MNIST                             | Classifying MNIST digits with random image shifting (Affine). |
+|    Convolutional Neural Network | CNN Gauss Classification   | --                                | Can CNN classify and find patterns in images humans cannot?|
 
 
 
