@@ -1,15 +1,15 @@
 
-<h3 align="left">This repository showcases the skills I have and the projects I have completed.</h3>
+<h3 align="left">This repository showcases the projects I have worked on.</h3>
 
-| **Neural Network**        | **Notebook**          | **Dataset**                       |          Notes      |
-|---------------------------|-----------------------|-----------------------------------|---------------------|
-|    ForwardFeed NN        | FeatureEncoding       | Simple Dataset From Jeff Heaton   |                     |
-|    ForwardFeed NN        | Regression K-Fold     | Simple Dataset From Jeff Heaton   |                     |
-|    ForwardFeed NN        | Classification K-Fold | Simple Dataset From Jeff Heaton   |                     |
-|    ForwardFeed NN        | Image Classification  | MNIST | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
-|    ForwardFeed NN        | Auto-Encoder | MNIST | The goal of this example is to train the model to predict and fill in missing parts of images using FeedForward auto-encoders.|
-|    Convolutional Neural Network | 6- CNN Classification | MNIST | The goal of this example is to classify MNIST digits without any image processing. |
-|    Convolutional Neural Network | 7- CNN Shifted Classification | MNIST | The goal of this example is to classify MNIST digits with random image shifting. |
+| **Neural Network**              | **Notebook**               | **Dataset**                       |          Notes      |
+|---------------------------------|----------------------------|-----------------------------------|---------------------|
+|    ForwardFeed NN               | FeatureEncoding            | Simple Dataset From Jeff Heaton   |                     |
+|    ForwardFeed NN               | Regression K-Fold          | Simple Dataset From Jeff Heaton   |                     |
+|    ForwardFeed NN               | Classification K-Fold      | Simple Dataset From Jeff Heaton   |                     |
+|    ForwardFeed NN               | Image Classification       | MNIST                             | In this example, I deliberately used oversampling for each training epoch so I could have balanced training batches. I thought this was a bad idea but the results were very good :)|
+|    ForwardFeed NN               | Auto-Encoder               | MNIST                             | The goal of this example is to train the model to predict and fill in missing parts of images using FeedForward auto-encoders.|
+|    Convolutional Neural Network | CNN Classification         | MNIST                             | The goal of this example is to classify MNIST digits without any image processing. |
+|    Convolutional Neural Network | CNN Shifted Classification | MNIST                             | The goal of this example is to classify MNIST digits with random image shifting. |
 
 
 
